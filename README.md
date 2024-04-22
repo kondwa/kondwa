@@ -10,6 +10,7 @@
 # Most Used Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kondwa&theme=blue-green)
 --->
+<a href="https://gitroll.io/profile/uShqW4G15OoMM37RENnAG4VaAd8u1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uShqW4G15OoMM37RENnAG4VaAd8u1" alt="GitRoll Profile Badge"/></a>
 # GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kondwa)
 # Profile Views
