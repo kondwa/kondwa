@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning Mobile Application Development.
 - 💞️ I’m looking to collaborate on some challenging software applications.
 - 📫 How to reach me: kondwa@gmail.com
-<!---
+
 # Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kondwa&theme=blue-green)
 # Most Used Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kondwa&theme=blue-green)
---->
+
 
 # GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kondwa)
