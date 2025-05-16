@@ -26,6 +26,8 @@ You can click the Preview link to take a look at your changes.
 <!--
 <a href="https://gitroll.io/profile/uShqW4G15OoMM37RENnAG4VaAd8u1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uShqW4G15OoMM37RENnAG4VaAd8u1" alt="GitRoll Profile Badge"/></a>
 -->
+<!--
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kondwa&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
+-->
